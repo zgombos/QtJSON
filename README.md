@@ -1,36 +1,3 @@
 # QtJSON
 JSON file format handling in Qt for guitar tuning
 
-{"Tuning": [
-    {
-        "name": "Standard",
-        "notes": [
-            {"note": "E", "octave": 2},
-            {"note": "A", "octave": 2},
-            {"note": "D", "octave": 3},
-            {"note": "G", "octave": 3},
-            {"note": "B", "octave": 3},
-            {"note": "E", "octave": 4}]
-    },
-    {
-        "name": "Dropped D",
-        "notes": [
-            {"note": "D", "octave": 2},
-            {"note": "A", "octave": 2},
-            {"note": "D", "octave": 3},
-            {"note": "G", "octave": 3},
-            {"note": "B", "octave": 3},
-            {"note": "E", "octave": 4}]
-    },
-    {
-        "name": "Dropped C",
-        "notes": [
-            {"note": "C", "octave": 2},
-            {"note": "G", "octave": 2},
-            {"note": "C", "octave": 3},
-            {"note": "F", "octave": 3},
-            {"note": "A", "octave": 3},
-            {"note": "D", "octave": 4}]
-    }
- ]
-}
