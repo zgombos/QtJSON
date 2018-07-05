@@ -1,2 +1,2 @@
 # QtJSON
-JSON file format handling in Qt
+JSON file format handling in Qt for guitar tuning
