@@ -1,0 +1,94 @@
+{
+"Scale":[
+    {
+        "name": "Pentatonic Major",
+        "interval": [2, 2, 3, 2, 3],
+        "hint": "BOX_PATTERN"
+    },
+    {
+        "name": "Pentatonic Minor",
+        "interval": [3, 2, 2, 3, 2],
+        "hint": "BOX_PATTERN"
+    },
+    {
+        "name": "Pentatonic Blues",
+        "interval": [3, 2, 1, 1, 3, 2],
+        "hint": "BOX_PATTERN"
+    },
+    {
+        "name": "Major",
+        "interval": [2, 2, 1, 2, 2, 2],
+        "hint": "THREE_NOTES"
+    },
+    {
+        "name": "Ionian",
+        "interval": [2, 2, 1, 2, 2, 2],
+        "hint": "THREE_NOTES"
+    },
+    {
+        "name": "Dorian",
+        "interval": [2, 1, 2, 2, 2, 1],
+        "hint": "THREE_NOTES"
+    },
+    {
+        "name": "Phrygian",
+        "interval": [1, 2, 2, 2, 1, 2],
+        "hint": "THREE_NOTES"
+    },
+    {
+        "name": "Lydian",
+        "interval": [2, 2, 2, 1, 2, 2],
+        "hint": "THREE_NOTES"
+    },
+    {
+        "name": "Mixolydian",
+        "interval": [2, 2, 1, 2, 2, 1],
+        "hint": "THREE_NOTES"
+    },
+    {    
+        "name": "Aeolian",
+        "interval": [2, 1, 2, 2, 1, 2],
+        "hint": "THREE_NOTES"
+    },
+    {
+        "name": "Locrian",
+        "interval": [1, 2, 2, 1, 2, 2],
+        "hint": "THREE_NOTES"
+    },
+    {
+        "name": "Minor",
+        "interval": [2, 1, 2, 2, 1, 2],
+        "hint": "THREE_NOTES"
+    },
+    {
+        "name": "Harmonic Minor",
+        "interval": [2, 1, 2, 2, 1, 3, 1],
+        "hint": "THREE_NOTES"
+    },
+    {
+        "name": "Melodic Minor - Ascending",
+        "interval": [2, 1, 2, 2, 2, 2, 1],
+        "hint": "THREE_NOTES"
+    },
+    {
+        "name": "Melodic Minor - Descending",
+        "interval": [2, 1, 2, 2, 1, 2, 2],
+        "hint": "THREE_NOTES"
+    },
+    {
+        "name": "Chromatic",
+        "interval": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        "hint": "THREE_NOTES"
+    },
+    {
+        "name": "Whole Tone",
+        "interval": [2, 2, 2, 2, 2, 2],
+        "hint": "THREE_NOTES"
+    },
+    {
+        "name": "Diminished",
+        "interval": [2, 1, 2, 1, 2, 1, 2],
+        "hint": "FOUR_NOTES"
+    }
+ ]
+}

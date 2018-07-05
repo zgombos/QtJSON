@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/tuning">
+        <file>tuning.json</file>
+        <file>scale.json</file>
+    </qresource>
+</RCC>
